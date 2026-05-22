@@ -91,6 +91,12 @@ This project presents a comprehensive visual analysis of **700+ hip-hop tracks**
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard_preview.png)
+
+---
+
 ## 📊 Dashboard Features
 
 ### 🎨 Visualizations Included

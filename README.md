@@ -224,8 +224,8 @@ top-hiphop-artists-tableau/
 
 **Author:** Ankan Senapati  
 **Email:** senankan002@gamil.com  
-**LinkedIn:** [Ankan Senapati]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ankansenapati/))  
-**GitHub:** [@burney10]([https://github.com/yourusername](https://github.com/burney10))
+**LinkedIn:** (https://www.linkedin.com/in/ankansenapati/)  
+**GitHub:** https://github.com/burney10
 
 **Questions?** Open an issue on GitHub or reach out directly!
 

@@ -177,7 +177,7 @@ top-hiphop-artists-tableau/
 - No null/missing values in core fields
 - Duration values cross-checked with Spotify API
 - Duplicate tracks (same artist + title) removed
-- Latest popularity snapshot: **May 2024**
+- Latest popularity snapshot: **May 2026**
 
 ⚠️ **Limitations:**
 - Popularity scores are point-in-time snapshots (update monthly for trends)
